@@ -533,6 +533,8 @@ section {
     text-align: center;
     padding: 0 40px;
     transition: height 0.5s;
+    background-color: #0ef;
+    box-shadow: 0 0 5px #0ef, 0 0 25px #0ef;
 }
 
 .layer h5 {
@@ -540,21 +542,18 @@ section {
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 15px;
-    background-color: rgb(152, 92, 243);
 }
 
 .layer p {
     color: #000000;
     font-size: 1rem;
     line-height: 1.8;
-    background-color: rgb(152, 92, 243);
 }
 
 .layer i {
     color: #ff004f;
     margin-top: 20px;
     font-size: 20px;
-    background-color: rgb(152, 92, 243);
     width: 60px;
     height: 60px;
     display: flex;
